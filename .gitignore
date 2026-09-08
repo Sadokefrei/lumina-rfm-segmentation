@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+transactions.csv
+touchpoints.csv
+customers.csv
+campaigns.csv
